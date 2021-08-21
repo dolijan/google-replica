@@ -1,0 +1,1 @@
+In this project we will be replicating the Google homepage and quite possibly the Google search results page.
