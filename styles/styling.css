@@ -1,0 +1,52 @@
+body{
+    display:flex;
+    flex-direction: column;
+    height:100vh;
+}
+#logo-pretraga{
+    background-color: red;
+    display:flex;
+    flex-direction:column;
+    height:84%;
+    justify-content: flex-start;
+}
+#heder
+{
+    height:6%;
+    background-color:blue;
+}
+#futer
+{
+    height:10%;
+    background-color:green;
+}
+#pretrage{
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+}
+#normalna-pretraga{
+    margin:0.7%;
+}
+#filing-laki{
+    margin:0.7%;
+}
+#jezici{
+    text-align: center;
+}
+#gugl-logo{
+    height:12.5%;
+    width:auto;
+    align-self:center;
+    margin-top:10%;
+    padding:0 0 0 0;
+}
+#dugmici{
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+}
+#pretrazivac{
+    align-self: center;
+    width:28%;
+}
